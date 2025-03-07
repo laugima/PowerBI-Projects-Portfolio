@@ -8,7 +8,7 @@ This repository showcases a Power BI project analyzing the **programming & data 
 🔹 **Key Insights:** Salary benchmarks, workforce diversity, job satisfaction factors, industry trends
 
 
-### [**1. Data & Programming Sector Insights: Salary, Satisfaction, and Diversity**](https://github.com/laugima/PowerBI-Projects-Portfolio/blob/main/1.%20Data%20%26%20Programming%20Sector%20Insights%20-%20Salary%2C%20Satisfaction%2C%20and%20Diversity.pbix)
+### [**1. Data & Programming Sector Insights: Salary, Satisfaction, and Diversity**](https://github.com/laugima/PowerBI-Projects-Portfolio/blob/main/1.%20Data%20%26%20Programming%20Sector%20Insights%3A%20Salary%2C%20Satisfaction%2C%20and%20Diversity.pbix)
 The programming and data sector is constantly evolving, with salaries, job satisfaction, and diversity playing crucial roles in industry dynamics. This project leverages Power BI to analyze survey data from professionals in the field, providing actionable insights for job seekers, employers, and policymakers.
 
 ## **Key Data Analysis & Visualization Processes**
