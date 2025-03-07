@@ -1,25 +1,33 @@
 # PowerBI-Projects-Portfolio
-Here you will find PowerBI projects that have been created as part of my Portfolio.
+This repository showcases a Power BI project analyzing the **programming & data sector**, focusing on **salary trends, job satisfaction, and diversity insights**. The project demonstrates data-driven decision-making for career planning, hiring strategies, and industry analysis.  
 
-## 1. Data & Programming Sector Insights: Salary, Satisfaction, and Diversity:
-
-This Power BI project visualizes a survey conducted with workers in the programming and data sector, using an Excel table containing data on various aspects of their careers and work environments. The aim is to explore and present valuable insights interactively, focusing on key factors such as the difficulty of entering the sector, salary differences based on job titles, work-life balance, job satisfaction, and more.
-
-Key Features:
-
-- Demographic Data:  The project analyzes details such as the country of residence, age, gender, and educational level of the respondents, providing a general overview of the sector's diversity.
-- Job Titles and Salary: It visualizes the annual salary of respondents based on their job titles, highlighting how compensation varies across different positions within the industry.
-- Difficulty of Breaking into the Sector: The project includes an analysis of respondents’ perceptions of the difficulty of entering the programming and data sector. This visualization shows patterns based on the respondents’ experience and educational background.
-- Job Satisfaction: Insights into how satisfied workers are in various aspects of their current roles are explored, including salary, work-life balance, relationships with coworkers and management, upward mobility, and learning opportunities. These are presented through charts that facilitate easy analysis of overall job satisfaction.
-- Job Preferences and Motivations: The project investigates what factors are most important to workers when considering a new job, providing insights into current trends in the tech industry’s labor market.
-- Favorite Programming Languages: It analyzes the most popular programming languages among respondents, offering valuable information about the most in-demand technologies in the sector.
-- Diversity Factors: The visualization also includes information on ethnicity and other demographic factors, helping to understand the diversity of the sector from an inclusive perspective.
-
-Visualization Methodology:
-Using Power BI, various types of visualizations are implemented, including bar graphs, line charts, geographic maps, and interactive tables, making the data easy to explore and interpret. These visuals enable stakeholders to gain a comprehensive understanding of the current state of the programming and data industry, based on the responses of the survey participants.
+🔹 **Skills Highlighted:** Data Visualization, Business Intelligence, DAX, Power Query
+🔹 **Tools Used:** Power BI, Power Query, DAX
+🔹 **Key Insights:** Salary benchmarks, workforce diversity, job satisfaction factors, industry trends
 
 
+### [**1. Data & Programming Sector Insights: Salary, Satisfaction, and Diversity**](https://github.com/laugima/PowerBI-Projects-Portfolio/blob/main/1.%20Data%20%26%20Programming%20Sector%20Insights%20-%20Salary%2C%20Satisfaction%2C%20and%20Diversity.pbix)
+The programming and data sector is constantly evolving, with salaries, job satisfaction, and diversity playing crucial roles in industry dynamics. This project leverages Power BI to analyze survey data from professionals in the field, providing actionable insights for job seekers, employers, and policymakers.
 
+## **Key Data Analysis & Visualization Processes**
+- **Salary Trends & Disparities** – Analyzed salary distributions across experience levels, job roles, and geographic locations.  
+- **Job Satisfaction Insights** – Explored how factors like salary, work-life balance, and career growth impact job satisfaction.  
+- **Diversity Representation** – Examined gender and demographic diversity in the tech workforce to highlight inclusivity trends.  
+- **Industry Trends Over Time** – Identified shifts in job demand, preferred skills, and remote work adoption. 
+
+## **Business Impact**  
+A structured analysis of workforce trends empowers professionals, companies, and analysts to:  
+
+✅ **Make Data-Driven Career Decisions** – Understand salary benchmarks and job satisfaction factors to guide career growth.  
+✅ **Enhance Hiring & Retention Strategies** – Help HR teams attract and retain talent with competitive salaries and improved workplace policies.  
+✅ **Promote Diversity & Inclusion** – Support equitable hiring practices and measure diversity progress within organizations.  
+✅ **Identify Industry Skill Gaps** – Recognize emerging technologies and skill demands to stay competitive. 
+
+## **Project Details**  
+
+📂 **File:** `Data_Programming_Insights.pbix`  
+🛠️ **Tools Used:** Power BI, Power Query, DAX  
+📊 **Data Source:** Survey data from programming & data professionals  
 
 
 
