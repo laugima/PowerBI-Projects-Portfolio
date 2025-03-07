@@ -2,7 +2,9 @@
 This repository showcases a Power BI project analyzing the **programming & data sector**, focusing on **salary trends, job satisfaction, and diversity insights**. The project demonstrates data-driven decision-making for career planning, hiring strategies, and industry analysis.  
 
 🔹 **Skills Highlighted:** Data Visualization, Business Intelligence, DAX, Power Query
+
 🔹 **Tools Used:** Power BI, Power Query, DAX
+
 🔹 **Key Insights:** Salary benchmarks, workforce diversity, job satisfaction factors, industry trends
 
 
